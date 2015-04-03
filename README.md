@@ -16,7 +16,7 @@ admin sdk
  https://script.google.com/macros/d/{PROJECT KEY}/usercallback
  
  note: the project key can be found in you scripts File-> Project Properties
-####4) Add the genereated Client Id and Client Secret:
+####4) Add the generated Client Id and Client Secret:
      Add the script properties clientId and clientSecret and 
      add their respective values from the generated credentials
      
