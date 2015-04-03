@@ -7,7 +7,7 @@ function doGet(){
 
 
 function test(){
-  setSignature("8test@ccsknights.org")
+  setSignature("test@YourDomain.org")
 }
 
 function setSignature(userEmail){
