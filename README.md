@@ -23,5 +23,12 @@ admin sdk
 ####5) Add the {project key} AdminOauth2.gs:
        on the line .setProjectKey('...') add the project key
 
+
+####6) Publish the script as a webapp. 
+       You will need to authorize the app first by running the test function. 
+       Next browse to the web-app url to authorize access to you domains email settings
+       The call to make the signatuire will look like the test() function.
+
+
 Read the docs of the Oauth2 library at:
 https://github.com/googlesamples/apps-script-oauth2
