@@ -5,6 +5,9 @@ function doGet(){
   return showAuthWindow();
 }
 
+function authScript(){
+  return true;
+}
 
 function test(){
   setSignature("test@YourDomain.org")
