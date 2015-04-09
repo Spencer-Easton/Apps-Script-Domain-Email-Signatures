@@ -25,7 +25,7 @@ admin sdk
 
 
 ####6) Publish the script as a webapp. 
-       You will need to authorize the app first by running the test function. 
+       You will need to authorize the app first by running the authScript() function. 
        Next browse to the web-app url to authorize access to you domains email settings
        The call to make the signatuire will look like the test() function.
 
